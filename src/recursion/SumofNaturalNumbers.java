@@ -2,6 +2,7 @@ package recursion;
 
 public class SumofNaturalNumbers {
     public static int sum(int n) {
+        
         return 0;
     }
 
